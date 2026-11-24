@@ -1,0 +1,1 @@
+{"engines":{"node":">=22"},"name":"news-image-20261124","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
